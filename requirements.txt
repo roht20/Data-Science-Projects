@@ -1,4 +1,4 @@
 Jupyter Notebook - The version of the notebook server is: 5.5.0
 Python version - Python 3.6.5 (installed through Anaconda,INC)
 Python packages used - Numpy, Pandas, Scipy, Matplotlib, Seaborn, Tensorflow, Keras, NLTK
-Deep Learning notebooks hosted on Google Colab
+Deep Learning notebooks hosted on Google Colaboratory
